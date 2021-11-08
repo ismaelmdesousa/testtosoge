@@ -30,3 +30,5 @@
 * O Valor das parcelas não deve ultrapassar 30% (trinta por cento) da renda mensal.
 * A API deve manter um único recurso (pessoas);
 * A API deve conter às quatro operações CRUD (Create, Read, Update, Delete);
+
+> chinook.sqlite contem um baco de dados sqlite de exemplo disponibiliado com a aplicação dbeaver edição da comunidade.
