@@ -27,3 +27,6 @@
 8. Faça uma função que leia o arquivo `doc.txt` e retorne uma matriz com todos os CPF/CNPJ encontrados no conteúdo do arquivo.
 
 > chinook.sqlite contem um baco de dados sqlite de exemplo disponibiliado com a aplicação dbeaver edição da comunidade.
+
+
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
